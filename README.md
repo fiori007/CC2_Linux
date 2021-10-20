@@ -1,2 +1,2 @@
 # CC2_Linux
-repositorio da pasata usada no linux temporareamente
+repositorio da pasta usada no linux temporariamente
